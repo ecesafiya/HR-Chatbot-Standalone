@@ -1,0 +1,47 @@
+Pi Systems Company Information
+
+Company Name:
+Pi Systems
+
+Founded:
+2019
+
+Headquarters:
+Chennai, Tamil Nadu, India
+
+About:
+Pi Systems is a global consulting and technology company specializing in AI-powered software development, Microsoft technologies, and enterprise digital transformation. The company helps businesses improve efficiency through secure, scalable, and ethical technology solutions.
+
+Mission:
+To create opportunities by delivering technology solutions that help businesses grow while empowering talented individuals.
+
+Industries Served:
+- Logistics
+- Manufacturing
+- Healthcare
+- Financial Services
+
+Core Services:
+- AI-Powered Development
+- IT Consulting
+- Staff Augmentation
+- Microsoft Solutions
+- Intelligent Document Processing
+- Business Automation
+
+Technologies:
+- Microsoft Azure
+- .NET
+- Power Platform
+- Power BI
+- Business Central
+- Artificial Intelligence
+
+Company Culture:
+Pi Systems is a remote-first company focused on ethical AI, innovation, collaboration, continuous learning, and customer success.
+
+Location:
+Padur, Chennai, Tamil Nadu, India.
+
+Website:
+https://pi-systems.in
